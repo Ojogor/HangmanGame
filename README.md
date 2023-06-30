@@ -1,3 +1,11 @@
+Here is the demonstration of the working code: 
+
+
+https://github.com/Ojogor/HangmanGame/assets/98194481/5afdd653-0e24-4e86-b29c-20daab6fdf37
+
+
+
+
 This code defines a Hangman game using the Turtle graphics library in Python. It includes functions to draw the Hangman figure as well as to choose a random word for the player to guess. The player enters letters to guess the word and if they guess incorrectly, a part of the Hangman figure is drawn. The game continues until the player guesses the word correctly or the Hangman figure is completely drawn, resulting in a loss.
 
 The code first imports the random and turtle libraries, and then sets up the Turtle window and Turtle object. It initializes the Hangman figure by drawing the scaffold and saving the Turtle's current position using penup() and pendown() commands.
